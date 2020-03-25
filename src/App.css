@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.form-cont {
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+}
+form {
+    margin-top: 30px;
+}
+input {
+    width: 100%;
+    padding: 5px;
+}
+

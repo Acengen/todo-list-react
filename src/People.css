@@ -1,0 +1,15 @@
+.ppl {
+    margin: 5px;
+    border-bottom: 1px solid gray;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ppl div {
+    padding: 5px;
+}
+
+.ppl button {
+    margin: 5px;
+}
